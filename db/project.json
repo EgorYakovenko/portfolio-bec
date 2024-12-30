@@ -6,7 +6,13 @@
     "logo": "../../public/svg/set.svg#icon-js",
     "technologien": [
       "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css"
+      "../../public/svg/set.svg#icon-css",
+      "../../public/svg/set.svg#icon-git",
+      "../../public/svg/set.svg#icon-js",
+      "../../public/svg/set.svg#icon-mongodb",
+      "../../public/svg/set.svg#icon-react",
+      "../../public/svg/set.svg#icon-scss",
+      "../../public/svg/set.svg#icon-redux"
     ],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
