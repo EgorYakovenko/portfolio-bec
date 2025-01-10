@@ -28,7 +28,29 @@
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
   {
-    "id": "1",
+    "id": "3",
+    "name": "3",
+    "developer": "Individual project",
+    "logo": "../../public/svg/set.svg#icon-js",
+    "technologien": [
+      "../../public/svg/set.svg#icon-html",
+      "../../public/svg/set.svg#icon-css"
+    ],
+    "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
+  },
+  {
+    "id": "4",
+    "name": "3",
+    "developer": "Individual project",
+    "logo": "../../public/svg/set.svg#icon-js",
+    "technologien": [
+      "../../public/svg/set.svg#icon-html",
+      "../../public/svg/set.svg#icon-css"
+    ],
+    "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
+  },
+  {
+    "id": "5",
     "name": "3",
     "developer": "Individual project",
     "logo": "../../public/svg/set.svg#icon-js",
