@@ -2,62 +2,57 @@
   {
     "id": "1",
     "name": "WebStudio",
-    "developer": "Individual project",
-    "logo": "../../public/svg/set.svg#icon-js",
-    "technologien": [
-      "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css",
-      "../../public/svg/set.svg#icon-git",
-      "../../public/svg/set.svg#icon-js",
-      "../../public/svg/set.svg#icon-mongodb",
-      "../../public/svg/set.svg#icon-react",
-      "../../public/svg/set.svg#icon-scss",
-      "../../public/svg/set.svg#icon-redux"
-    ],
+    "developer": "Team project",
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
   {
     "id": "2",
     "name": "2",
     "developer": "Individual project",
-    "logo": "../../public/svg/set.svg#icon-js",
-    "technologien": [
-      "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css"
-    ],
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
   {
     "id": "3",
     "name": "3",
-    "developer": "Individual project",
-    "logo": "../../public/svg/set.svg#icon-js",
-    "technologien": [
-      "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css"
-    ],
+    "developer": "Team project",
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
   {
     "id": "4",
-    "name": "3",
+    "name": "4",
     "developer": "Individual project",
-    "logo": "../../public/svg/set.svg#icon-js",
-    "technologien": [
-      "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css"
-    ],
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   },
   {
     "id": "5",
-    "name": "3",
-    "developer": "Individual project",
-    "logo": "../../public/svg/set.svg#icon-js",
-    "technologien": [
-      "../../public/svg/set.svg#icon-html",
-      "../../public/svg/set.svg#icon-css"
-    ],
+    "name": "5",
+    "developer": "Team project",
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
+    "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
+  },
+  {
+    "id": "5",
+    "name": "6",
+    "developer": "Team project",
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
+    "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
+  },
+  {
+    "id": "5",
+    "name": "7",
+    "developer": "Team project",
+
+    "technologien": ["HTML", "CSS", "JavaScript", "React.js"],
     "description": "The site is designed with a semantic structure, adaptive layout, and an intuitive interface."
   }
 ]
